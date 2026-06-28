@@ -8,13 +8,6 @@ This dashboard was created as part of my learning journey under the guidance of 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Mobile Sales Dashboard](<img width="1291" height="732" alt="Screenshot 2026-06-28 223006" src="https://github.com/user-attachments/assets/2bd749a5-34db-43a3-965a-e7f5cad449f7" />
-)
-
----
-
 ## 🚀 Key Features
 
 - 📈 Total Sales, Transactions, Average Sales & Total Quantity KPIs
